@@ -64,7 +64,7 @@ SlackAPI Applications:
 
 Android Studio 4.1.3を使用.
 
-下記リンクからDTNFileShareのプロジェクトをダウンロードしてAndroid Studioでappフォルダに関して開く.
+下記リンクからDTNFileShareのプロジェクトをダウンロードしてAndroid StudioでShareフォルダに関して開く.
 
 /app/scr/main/java/de/tub/ibr/dtn/sharebox/SendSlackMessage.javaの変数SLACK_APP_TOKENに作成したSlack appのBot User OAuth Token の文字列を入力.
 
