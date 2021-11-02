@@ -66,6 +66,8 @@ Android Studio 4.1.3を使用.
 
 下記リンクからDTNFileShareのプロジェクトをダウンロードしてAndroid StudioでShareフォルダに関して開く.
 
+インストールするデバイスのAPIが26以上ならばAPI26overのブランチからダウンロード,26未満ならmainのブランチからダウンロード.
+
 /app/scr/main/java/de/tub/ibr/dtn/sharebox/SendSlackMessage.javaの変数SLACK_APP_TOKENに作成したSlack appのBot User OAuth Token の文字列を入力.
 
 /app/scr/main/java/de/tub/ibr/dtn/sharebox/SendSlackMessage.javaの変数SLACK_APP_URLにglitch等で作成したサーバーのURLを入力.
